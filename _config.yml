@@ -1,7 +1,7 @@
 # Setup
 title: showup
 tagline: cafe
-url: https://thejourneyof.me
+url: https://showup-cafe-blog.pages.dev
 baseurl: ""
 permalink: /:title/
 
@@ -31,7 +31,7 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mathias R
+  name: Mat
   url: https://mringive.github.io
   email: mringive@gmail.com
 
