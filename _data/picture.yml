@@ -1,0 +1,9 @@
+presets:
+  default:
+    formats: [webp, original]
+    widths: [200, 400, 800, 1200, 1600, 2000, 4000, 6000]
+
+    format_quality:
+    jpg: 100
+    png: 100
+    webp: 100

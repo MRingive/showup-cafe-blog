@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+
+  {% include head.html %}
+
+  <body>
+
+    <div class="container content">
+      {% include masthead.html %}
+
+      <main>
+        {{ content }}
+      </main>
+
+      <footer class="footer">
+        <small>
+          &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>. All rights reserved ::
+          <a href="{{ site.url }}{% link archive.md %}" title="All Posts">all posts</a> ::
+          <a href="{{ site.url }}{% link financial-freedom-updates/index.md %}" title="Financial Freedom Updates">ff updates</a>
+        </small>
+      </footer>
+    </div>
+
+  </body>
+</html>
