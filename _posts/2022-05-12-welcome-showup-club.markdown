@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Show Up Club"
-date: 2022-05-14 06:00:00 +0200
+date: 2022-05-12 06:00:00 +0200
 ---
 
 Imagine you could beat procrastination. Take a moment to reflect on the person you would be if you did not hesitate or postpone important work. What would your life look like?
