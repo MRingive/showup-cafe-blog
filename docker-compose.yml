@@ -5,7 +5,7 @@ services:
     build: .
     command: jekyll serve --livereload --force_polling --future --config  _config.yml,_config.docker.yml
     ports:
-      - 4000:4000
+      - 3000:4000
       - 35729:35729
     volumes:
       - .:/srv/jekyll
