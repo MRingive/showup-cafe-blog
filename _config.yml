@@ -1,7 +1,7 @@
 # Setup
 title: showup
 tagline: cafe
-url: https://showup-cafe-blog.pages.dev
+url: https://showup.cafe
 baseurl: ""
 permalink: /:title/
 
